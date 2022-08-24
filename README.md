@@ -1,1 +1,1 @@
-# a-star-algorithm-pygame
+# Pygame Application for A* algorithm
